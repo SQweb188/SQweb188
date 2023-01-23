@@ -1,7 +1,6 @@
 - Hi, I’m @SQweb188
 - I’m a web developer 
 - I’m a python programmer
-- 
 
 
 <!---
