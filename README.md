@@ -1,6 +1,7 @@
 - Hi, I’m @SQweb188
-- I’m a web designer 
-- I’m currently learning MERN stack development
+- I’m a web developer 
+- I’m a python programmer
+- 
 
 
 <!---
